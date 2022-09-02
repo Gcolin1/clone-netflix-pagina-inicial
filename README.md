@@ -5,6 +5,6 @@ clone da página inicial da Netflix, esse projeto foi realizado com as seguintes
   <img align="center" alt="colin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="clin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="colin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div><br>
 
 Para acessar o projeto basta clicar nesse link https://gcolin1.github.io/clone-netflix-pagina-inicial/
